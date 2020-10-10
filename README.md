@@ -1,6 +1,6 @@
 # DJANGO Craigslist
 
-This is a craigslist clone.
+This is a craigslist clone. I have used scraping tools for this project.
 
 ### To run the code: 
 * Download the code
